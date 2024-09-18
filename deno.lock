@@ -1,0 +1,20 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://esm.sh/react": "https://esm.sh/react@18.3.1"
+  },
+  "remote": {
+    "https://esm.sh/react@18.3.1": "52480d4c00855e4f76843caa4f2818eb001671523740cbf064cbd108721c29c8",
+    "https://esm.sh/stable/react@18.3.1/denonext/react.mjs": "fc048ffc55366baf7669519127d186761db72046e2bebf35fe8d0de3964defa3"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@biomejs/biome@1.9.1",
+        "npm:@types/react@^18.3.3",
+        "npm:react@^18.3.1",
+        "npm:typescript@^5.4.5"
+      ]
+    }
+  }
+}
