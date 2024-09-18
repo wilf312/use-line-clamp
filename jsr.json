@@ -1,0 +1,6 @@
+{
+  "name": "@genya/use-line-clamp",
+  "version": "0.0.1",
+  "exports": "./dist/index.js",
+  "include": ["dist/**/*"]
+}
