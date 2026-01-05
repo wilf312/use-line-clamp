@@ -16,6 +16,6 @@ jobs:
     steps:
       - uses: denoland/setup-deno@v1
         with:
-          deno-version: v1.x
+          deno-version: 2.x
       - uses: actions/checkout@v4
       - run: npx jsr publish
